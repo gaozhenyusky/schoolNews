@@ -1,0 +1,4 @@
+schoolNews
+==========
+
+someThg about schoolNews
